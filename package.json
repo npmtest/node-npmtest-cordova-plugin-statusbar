@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [cordova-plugin-statusbar (v2.2.2)](https://github.com/apache/cordova-plugin-statusbar#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-statusbar.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-statusbar) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-statusbar.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-statusbar)",
+    "description": "#### basic test coverage for  [cordova-plugin-statusbar (v2.2.2)](https://github.com/apache/cordova-plugin-statusbar#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-statusbar.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-statusbar) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-statusbar.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-statusbar)",
     "devDependencies": {
         "cordova-plugin-statusbar": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
